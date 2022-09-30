@@ -9,7 +9,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.3
       - name: HubSpot Deploy Action
-       - name: Generate hubspot.config.yml and deploy      
         uses: HubSpot/hubspot-cms-deploy-action@v1.5
         with:
           src_dir: src
