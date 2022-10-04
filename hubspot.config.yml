@@ -1,0 +1,14 @@
+defaultPortal: github_test
+portals:
+  - name: github_test
+    portalId: 21094555
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMrUo7C2MBIIAAUAAAAAAAwYm8GHCiDzm0so7ukMMhRuPW-lmtN19F4ABetOUB3DkAtUIjohAAAEQQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA8QhT9B7HJU4XvnTNuvqb_KyMI_iAfK0oDbmExUgBaAA
+        expiresAt: '2022-09-22T16:30:03.853Z'
+    personalAccessKey: >-
+      CiQxMmYwOWVkMy1iZDkzLTQyMjgtYTQxYS0xMTAyYmMyNzczMWMQm8GHChjzm0sqGQAF5pGCTFALQ7w6vV9jT22Wu_TjlaJWVRRKA25hMQ
+- name: HubSpot CMS Deploy
+  uses: HubSpot/hubspot-cms-deploy-action@v1.6
