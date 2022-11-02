@@ -14,5 +14,5 @@ jobs:
           src_dir: src
           dest_dir: boilerplate
           portal_id: 20677918
-          personal_access_key: CiQ1YmMyMGM0ZS00MWMyLTRiN2UtYTgyYS0xYjFmNmIxOTcxY2UQnoruCRjzm0sqGQAF5pGClJzlF3xMyE9bW509Z48KJR96ZDNKA25hQ
+          personal_access_key: CiQxMmYwOWVkMy1iZDkzLTQyMjgtYTQxYS0xMTAyYmMyNzczMWMQm8GHChjzm0sqGQAF5pGCTFALQ7w6vV9jT22Wu_TjlaJWVRRKA25hMQ
           
